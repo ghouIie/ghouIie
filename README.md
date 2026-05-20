@@ -1,4 +1,5 @@
-## Hi there 👋
+<p align="center">
+<img width="825" height="839" alt="image" src="https://github.com/user-attachments/assets/dec7bb68-37e2-465f-93da-43979877b458" />
 
 <!--
 **ghouIie/ghouIie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
