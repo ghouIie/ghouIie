@@ -1,13 +1,5 @@
-<img width="392" height="364" alt="image" src="https://github.com/user-attachments/assets/f6282492-c5f8-44bd-9162-9e2c86451280" />
-<img width="388" height="315" alt="image" src="https://github.com/user-attachments/assets/e1712748-57f6-42ed-8dc5-e5c718093864" />
-
-@gambleghost Hey?~
-
-ogm your Dumbass sent urself these emssages at 9:29am for me GIRL I WAS DAMN WELL IN CLASS DONT MAKE ME LAUGH
-
-<img width="526" height="193" alt="image" src="https://github.com/user-attachments/assets/d53ab4e5-ab5e-4069-8cd5-fa0238836183" />
-
-GIRLAT LEASTMAKE URSELF SOUND LIKEMEEEE IM SO FUCKUNF INSULTED Girl your me impression is Soo good .it js needs work I Swear i believe in u?
+<p align="center">
+<img width="250" height="256" alt="image" src="https://github.com/user-attachments/assets/fa34f10b-a2f7-491d-83c8-23e124df4c36" />
 <!--
 **ghouIie/ghouIie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
