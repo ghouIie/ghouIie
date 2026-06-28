@@ -1,5 +1,6 @@
 <p align="center">
-<img width="250" height="256" alt="image" src="https://github.com/user-attachments/assets/fa34f10b-a2f7-491d-83c8-23e124df4c36" />
+<img width="400" height="241" alt="image" src="https://github.com/user-attachments/assets/d78bca2a-c5be-4669-a2e9-5e60d38e5e74" />
+  <p align="center"> Girl i need to log off the internet asap
 <!--
 **ghouIie/ghouIie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
