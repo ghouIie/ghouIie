@@ -1,6 +1,7 @@
 <p align="center">
-<img width="400" height="241" alt="image" src="https://github.com/user-attachments/assets/d78bca2a-c5be-4669-a2e9-5e60d38e5e74" />
-  <p align="center"> Girl i need to log off the internet asap
+<img width="487" height="268" alt="image" src="https://github.com/user-attachments/assets/b8e12208-18a4-4077-846f-aa3557df82e7"
+ />
+  <p align="center"> i really like lizbecca
 <!--
 **ghouIie/ghouIie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
